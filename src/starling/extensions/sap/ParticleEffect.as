@@ -5,7 +5,7 @@
  *
  * It is desirable to notify that Covered Software was "Powered by AlternativaPlatform" with link to http://www.alternativaplatform.com/
  * */
-package com.starling.effects {
+package starling.extensions.sap {
 	import flash.geom.Vector3D;
 
 	public class ParticleEffect {

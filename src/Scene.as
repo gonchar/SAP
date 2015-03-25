@@ -1,7 +1,7 @@
 package {
 
-	import com.starling.effects.ParticleSystem;
-	import com.starling.effects.ParticleTextureAtlas;
+	import starling.extensions.sap.ParticleSystem;
+	import starling.extensions.sap.ParticleTextureAtlas;
 
 	import flash.geom.Vector3D;
 

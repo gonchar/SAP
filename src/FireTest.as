@@ -1,8 +1,8 @@
 package {
 
-	import com.starling.effects.ParticleEffect;
-	import com.starling.effects.ParticlePrototype;
-	import com.starling.effects.ParticleTextureAtlas;
+	import starling.extensions.sap.ParticleEffect;
+	import starling.extensions.sap.ParticlePrototype;
+	import starling.extensions.sap.ParticleTextureAtlas;
 
 	import flash.display3D.Context3DBlendFactor;
 	import flash.geom.Vector3D;
